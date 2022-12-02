@@ -1,0 +1,17 @@
+
+**************************************************************************
+                              PLANET DATA
+
+Planet    Gravity   Diameter      Mountain       Peak   Horizon  Free Fall
+           m/s^2       km                          m       km        m
+Mercury    3.70        4878    Calois_Montes      4480     6474       4625
+Venus      8.87       12100    Maxwell_Montes    10800     15726      11087
+Earth      9.81       12756    Mount_Everest      8848     13825      12262
+Moon       1.60        3476    Mons_Huygens      10786     12402       2000
+Mars       3.70        6792    Olympus_Mons      21229     24389       4625
+Jupiter    23.12      142981    Unknown               0       0      28900
+Saturn     8.96      120536    Unknown               0       0      11200
+Uranus     8.69       51118    Unknown               0       0      10862
+Neptune    11.00       49500    Unknown               0       0      13750
+Pluto      0.58        2302    Tenzing_Montes     6200     7260        725
+**************************************************************************

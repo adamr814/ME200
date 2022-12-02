@@ -1,0 +1,6 @@
+***************************************
+       POWER OUTPUT IN MEGAWATTS
+
+Plant 1   Plant 2   Plant 3   Averages
+***************************************
+

@@ -1,0 +1,17 @@
+***************************************************
+                  HEAT INDEX TABLE
+
+Temperature   Humidity   Heat Index    Danger
+     øF           %          øF        Level
+
+     95          80         134     Extreme Danger
+     82          35          81     Caution
+     80          30          79     Caution
+    100          35         106     Danger
+    101          75         155     Extreme Danger
+     88          70         100     Extreme Caution
+     92          90         131     Extreme Danger
+     84          65          89     Caution
+     98          35         102     Extreme Caution
+     91          61         103     Extreme Caution
+***************************************************

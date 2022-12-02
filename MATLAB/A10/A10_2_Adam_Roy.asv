@@ -1,0 +1,44 @@
+%Clear Command Window, clear memory, and close plots
+clc
+clear
+close all
+
+%Load input file
+riverdat = load('river_data.txt');
+
+%Size matrix
+[~,ncols] = size(riverdat);
+
+%Display main heading
+disp('********************************************\n');
+disp('           RIVER CHANNEL ANALYSIS\n\n');
+
+%Enter channel width
+cwidth = input('Enter river channel width in meters: ');
+
+%Display column headings
+disp('\n\n          Day   Height   Velocity');
+disp('\n(m)      (m/s)');
+
+%Assign a volume variable
+vol = (1);
+
+%Determine average height and average veocity
+avehgt = mean(riverdat(2,:));
+avevelo = mean(riverdat(3,:));
+
+%Determine max/min height/velocity
+maxhgt = max(riverdat(2,:));
+maxvelo = max(riverdat(3,:));
+minhgt = min(riverdat(2,:));
+minvelo = min(riverdat(3,:));
+
+%Determine matrix locations of max/min height/velocity
+[minrowh,mincolh] = find(riverdat == minhgt);
+[minrowv,mincolv] = find(riverdat == minvelo);
+[maxrowh,maxcolh] = find(riverdat == maxhgt);
+[maxrowv,maxcolv] = find(riverdat == maxvelo);
+
+%Compute the flow rate
+flowrt = (river
+

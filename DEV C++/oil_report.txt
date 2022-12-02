@@ -1,0 +1,15 @@
+**********************************************
+            DAILY DRILLING REPORT
+
+SITE   DEPTH   IDEAL POWDER   NUMBER OF STICKS
+ ID     (ft)      (lbs)
+1715    100       83.33            16
+5858     98       81.67            16
+ 907     30   HOLE TOO SHALLOW FOR BLASTING
+3647     59       49.17             9
+1834     62       51.67            10
+ 719    243      202.50            40
+5280     27   HOLE TOO SHALLOW FOR BLASTING
+2640     31       25.83             5
+1320    175      145.83            29
+**********************************************

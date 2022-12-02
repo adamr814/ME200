@@ -1,0 +1,8 @@
+7
+Hazel    1954 4 A
+Donna    1960 4 G
+Camille  1969 5 G 
+Frederic 1979 3 G
+Gloria   1985 3 A
+Hugo     1989 4 A
+Andrew   1992 5 A
